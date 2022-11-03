@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Peter Mac Anderson']\"}\n  (Session info: chrome=107.0.5304.88)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x00BBACD3+2075859]\n\tOrdinal0 [0x00B4EE61+1633889]\n\tOrdinal0 [0x00A4B7BD+571325]\n\tOrdinal0 [0x00A7AC2F+764975]\n\tOrdinal0 [0x00A7AE1B+765467]\n\tOrdinal0 [0x00AAD0F2+970994]\n\tOrdinal0 [0x00A97364+881508]\n\tOrdinal0 [0x00AAB56A+963946]\n\tOrdinal0 [0x00A97136+880950]\n\tOrdinal0 [0x00A6FEFD+720637]\n\tOrdinal0 [0x00A70F3F+724799]\n\tGetHandleVerifier [0x00E6EED2+2769538]\n\tGetHandleVerifier [0x00E60D95+2711877]\n\tGetHandleVerifier [0x00C4A03A+521194]\n\tGetHandleVerifier [0x00C48DA0+516432]\n\tOrdinal0 [0x00B5682C+1665068]\n\tOrdinal0 [0x00B5B128+1683752]\n\tOrdinal0 [0x00B5B215+1683989]\n\tOrdinal0 [0x00B66484+1729668]\n\tBaseThreadInitThunk [0x7745FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x775D7BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x775D7B8E+238]\n"
+}

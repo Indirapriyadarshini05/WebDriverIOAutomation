@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 31 20:02:21 IST 2022","Mon Oct 31 20:02:22 IST 2022","1523","","Login to the Application","","Login to the Application","Login with inValid credentials to OrangeHRM","Login with inValid credentials to OrangeHRM",""
+"passed","Tue Nov 01 15:29:46 IST 2022","Tue Nov 01 15:29:57 IST 2022","11693","","Login to the Application","","Login to the Application","Searching User in Admin Tab ","Searching User in Admin Tab ",""
+"passed","Mon Oct 31 20:02:09 IST 2022","Mon Oct 31 20:02:15 IST 2022","5772","","Login to the Application","","Login to the Application","Verifiying the Title and Text","Verifiying the Title and Text",""
+"broken","Tue Nov 01 16:56:00 IST 2022","Tue Nov 01 16:56:32 IST 2022","31840","","Login to the Application","","Login to the Application","Adding User in Admin Tab ","Adding User in Admin Tab ",""
+"passed","Tue Nov 01 18:38:31 IST 2022","Tue Nov 01 18:38:44 IST 2022","12495","","Login to the Application","","Login to the Application","Adding jobtitle in Admin Tab -job section","Adding jobtitle in Admin Tab -job section",""
+"passed","Tue Nov 01 15:29:47 IST 2022","Tue Nov 01 15:29:55 IST 2022","8297","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
+"passed","Mon Oct 31 20:02:15 IST 2022","Mon Oct 31 20:02:21 IST 2022","6133","","Login to the Application","","Login to the Application","Login with Valid credentials to OrangeHRM","Login with Valid credentials to OrangeHRM",""

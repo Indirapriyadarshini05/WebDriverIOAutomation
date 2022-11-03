@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Admin']\"}\n  (Session info: chrome=107.0.5304.88)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x00C5ACD3+2075859]\n\tOrdinal0 [0x00BEEE61+1633889]\n\tOrdinal0 [0x00AEB7BD+571325]\n\tOrdinal0 [0x00B1AC2F+764975]\n\tOrdinal0 [0x00B1AE1B+765467]\n\tOrdinal0 [0x00B4D0F2+970994]\n\tOrdinal0 [0x00B37364+881508]\n\tOrdinal0 [0x00B4B56A+963946]\n\tOrdinal0 [0x00B37136+880950]\n\tOrdinal0 [0x00B0FEFD+720637]\n\tOrdinal0 [0x00B10F3F+724799]\n\tGetHandleVerifier [0x00F0EED2+2769538]\n\tGetHandleVerifier [0x00F00D95+2711877]\n\tGetHandleVerifier [0x00CEA03A+521194]\n\tGetHandleVerifier [0x00CE8DA0+516432]\n\tOrdinal0 [0x00BF682C+1665068]\n\tOrdinal0 [0x00BFB128+1683752]\n\tOrdinal0 [0x00BFB215+1683989]\n\tOrdinal0 [0x00C06484+1729668]\n\tBaseThreadInitThunk [0x7745FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x775D7BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x775D7B8E+238]\n"
+}
